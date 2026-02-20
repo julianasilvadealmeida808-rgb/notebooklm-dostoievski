@@ -1,4 +1,4 @@
-# cadernolm-dostoievski
+# notebooklm-dostoievski
 
 Guia de estudo desenvolvido com apoio do NotebookLM, tendo como foco a análise das obras de Fiódor Dostoiévski — *Crime e Castigo* e *Noites Brancas*.
 
